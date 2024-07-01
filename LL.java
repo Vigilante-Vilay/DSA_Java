@@ -1,4 +1,4 @@
-package DSA;
+package DSA_Java;
 
 //LinkedList
 class LL {

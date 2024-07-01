@@ -1,4 +1,4 @@
-package DSA;
+package DSA_Java;
 
 //This is LinkedList Using Collection frameworks
 import java.util.LinkedList;
