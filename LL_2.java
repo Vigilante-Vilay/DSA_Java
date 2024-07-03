@@ -2,6 +2,7 @@ package DSA_Java;
 
 //This is LinkedList Using Collection frameworks
 import java.util.LinkedList;
+//java.util.* can also be imported
 
 public class LL_2 {
     public static void main(String args[]) {
