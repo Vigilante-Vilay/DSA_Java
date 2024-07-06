@@ -5,7 +5,7 @@ public class Queue_Array {
     static class Queue {
         static int arr[];
         static int size;
-        static int rear = -1; // No need to define front as it starts from 0 only
+        static int rear = -1; // No need to define front as it remains at the start of the queue only
 
         Queue(int n) {
             this.size = n;
