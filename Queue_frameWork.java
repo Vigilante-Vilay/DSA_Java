@@ -52,7 +52,7 @@ public class Queue_frameWork {
     public static void main(String args[]) {
         Queue<Integer> q = new LinkedList<>();
         // Queue is an interface, not a class
-        // Interfaces cannot have objects of thier own, only classes can
+        // Interfaces cannot have objects of their own, only classes can
         // So queue are made using two classes
         // Either "LinkedList" or "ArrayDeque"
 
