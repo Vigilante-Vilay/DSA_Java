@@ -39,7 +39,7 @@ public class Queue_frameWork {
             return s1.pop(); // Pop is a stack function
         }
 
-        public static int peek() {
+        public static int peek() { // This "peek" is a Queue function
             if (s1.isEmpty() == true) {
                 System.out.println("Empty Queue");
                 return -1;
